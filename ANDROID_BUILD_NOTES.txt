@@ -1,0 +1,1 @@
+Godot 4 project. Import project.godot in Godot 4.3+. See README.md for Android export steps.
